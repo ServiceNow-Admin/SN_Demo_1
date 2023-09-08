@@ -10,7 +10,7 @@
 
 
 <properties>
-  <sonar.organization>ahmad-alsarraj</sonar.organization>
+  <sonar.organization>servicenow-admin</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 
