@@ -1,5 +1,5 @@
-host: https://sndemo1.testrail.io/
-project: ServiceNow Demo TestRail
+host: https://tjs.testrail.io/
+project: ServiceNow Demo
 username: sn_demo_1@outlook.com
 password: 2EhEYQztf2Ram8P@
 title: JUnit5 Automated Test Run
